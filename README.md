@@ -1,4 +1,3 @@
-# TFM_ChestX_Pneumonia
 # Objetivo Proyecto TFM Deep Learning Rayos X del torax TPU.
 Clasificar y detectar las enfermedades humanas a partir de las imagenes medicas de rayos X del torax como la Neumonia.
 Para ello vamos a utilizar tecnologia google (unidad de procesamiento tensorial) TPU para comparar modelos binarios , Curvas Roc , matriz de confusión y comparar con un modelo pre-computado vs el modelo.
